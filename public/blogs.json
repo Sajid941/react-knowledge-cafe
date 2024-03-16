@@ -2,7 +2,8 @@
     {
         "id": 1,
         "author": "Alice Johnson",
-        "author_img": "https://i.postimg.cc/Zq2dPP3s/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "cover":"https://i.postimg.cc/Zq2dPP3s/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img": "../src/assets/images/profile.png",
         "title": "The Art of Cooking",
         "reading_time": 12,
         "hashtags": [
@@ -15,7 +16,8 @@
     {
         "id": 2,
         "author": "Bob Smith",
-        "author_img": "https://example.com/bob_smith.jpg",
+        "cover":"https://i.postimg.cc/Zq2dPP3s/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img":  "../src/assets/images/profile.png",
         "title": "Mastering Photography",
         "reading_time": 20,
         "hashtags": [
@@ -28,7 +30,8 @@
     {
         "id": 3,
         "author": "Charlie Brown",
-        "author_img": "https://example.com/charlie_brown.jpg",
+        "cover":"https://i.postimg.cc/Zq2dPP3s/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img":  "../src/assets/images/profile.png",
         "title": "Exploring Nature's Wonders",
         "reading_time": 18,
         "hashtags": [
@@ -41,7 +44,8 @@
     {
         "id": 4,
         "author": "Diana Miller",
-        "author_img": "https://example.com/diana_miller.jpg",
+        "cover":"https://i.postimg.cc/Zq2dPP3s/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img": "../src/assets/images/profile.png",
         "title": "The Science of Climate Change",
         "reading_time": 25,
         "hashtags": [
@@ -54,7 +58,8 @@
     {
         "id": 5,
         "author": "Ethan Clark",
-        "author_img": "https://example.com/ethan_clark.jpg",
+        "cover":"https://i.postimg.cc/Zq2dPP3s/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author_img": "../src/assets/images/profile.png",
         "title": "Fitness Fundamentals",
         "reading_time": 15,
         "hashtags": [
