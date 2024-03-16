@@ -1,10 +1,17 @@
 import './App.css'
+import Blogs from './components/Blogs/Blogs'
+import Bookmark from './components/Bookmark/Bookmark'
+import Header from './components/Header/Header'
 
 function App() {
 
   return (
     <>
-      <h1 className='text-3xl'>Welcome</h1>
+      <Header></Header>
+      <main className='md:flex'>
+        <Blogs></Blogs>
+        <Bookmark></Bookmark>
+      </main>
     </>
   )
 }
